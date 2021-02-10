@@ -1,9 +1,9 @@
 # Practical-class-built
 
-##Project description
+## Project description
 As you can imagine, this is a practical class built for week 5 assingment from Tina's class about Samba, the three-legged dog. 
 
-##Installation
+## Installation
 "Copy repository from GitHub to preferred project location. You're good to go" TALKS, Tina (2021)
 
 ## History
